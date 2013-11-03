@@ -79,6 +79,7 @@ Scientific Observer
 * See Above
 
 Education
+---------
 
 2000–2001
 ~~~~~~~~~	
