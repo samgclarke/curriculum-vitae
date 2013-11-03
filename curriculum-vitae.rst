@@ -15,11 +15,6 @@ Contact Details
 	
 * **Email:** cronneloctopus@gmail.com
 
-Position Applied For
---------------------
-
-Django Developer
-
 
 Employment Experience
 ---------------------
@@ -80,7 +75,7 @@ Eccinoquial Escuela de Lingua. Cuenca, Ecuador, S.A.
 8/2002–1/2004
 ~~~~~~~~~~~~~~
 **Scientific Observer**
-
+git ad
 Falkland Islands Fisheries Dept. Falkland Islands
 
 * See Above
@@ -166,8 +161,8 @@ Sports: Snowboarding, skateboarding, basketball, squash, hiking, surfing and SCU
 **Other:** Digital Music Production and DJ
 ­
 
-Professional References (current employer available on request)
----------------------------------------------------------------
+Professional References
+-----------------------
 
 **Dr. Alexander Arkhipkin**
 
