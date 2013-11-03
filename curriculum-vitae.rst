@@ -160,19 +160,24 @@ Sports: Snowboarding, skateboarding, basketball, squash, hiking, surfing and SCU
 Professional References (current employer available on request)
 ---------------------------------------------------------------
 
-Dr. Alexander Arkhipkin
-Senior Scientist
-Fisheries Dept.
-FIPASS
-Falkland Islands
-FIQQ 1ZZ
-Tel: (500) 27260
-arkhipkin@fisheries.gov.fk
-Dr. Frank Bungartz
-Theme Leader, Biodiversity Assessment
-Cryptogamic Botanist & Head of Natural History Collections
-Charles Darwin Foundation (AISBL)
-Puerto Ayora, Santa Cruz
-Galápagos, Ecuador
-frank.bungartz@gmail.com
+**Dr. Alexander Arkhipkin**
+
+* Senior Scientist
+* Fisheries Dept.
+* FIPASS
+* Falkland Islands
+* FIQQ 1ZZ
+* Tel: (500) 27260
+* arkhipkin@fisheries.gov.fk
+
+
+
+**Dr. Frank Bungartz**
+
+* Theme Leader, Biodiversity Assessment
+* Cryptogamic Botanist & Head of Natural History Collections
+* Charles Darwin Foundation (AISBL)
+* Puerto Ayora, Santa Cruz
+* Galápagos, Ecuador
+* frank.bungartz@gmail.com
 
