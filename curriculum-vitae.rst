@@ -6,10 +6,11 @@ Mr. Samuel George Clarke
     :width: 683px
     :scale: 30 %
 
+Contact Details
+---------------
+
 * **Date of Birth:** 15 February 1978
 * **Nationality:** British 
-* *Permanent Correspondence Address:*  Suite 108, 2012 MacDonald St., Vancouver, B.C. V6K 3Y1.
-
 * **Telephone:** 604 720 9056
 	
 * **Email:** cronneloctopus@gmail.com
