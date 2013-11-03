@@ -26,55 +26,62 @@ Employment Experience
 
 
 9/2013-present
-~~~~~~~~~~~~~~  
+~~~~~~~~~~~~~~
+**Technical Director, Django Developer**. 
+
 Rival Schools, Vancouver, B.C., Canada
-Technical Director, Django Developer
 
 * Co-ordination and engineering of web application projects.
 
 10/2012-9/2012
-~~~~~~~~~~~~~~   
+~~~~~~~~~~~~~~
+**Django Developer**
+
 Rival Schools, Vancouver, B.C., Canada
-Django Developer
 
 * Creation of a web-based configurator tool for use in the Solar Mounting industry.
 
 9/2010-8/2012
 ~~~~~~~~~~~~~~     
+**Web Development Consultant**
+
 Charles Darwin Foundation, Galapagos Islands, Ecuador
-Web Development Consultant
 
 * Development of scientific web applications, database standards and web interfaces.
 
 1/2009-6/2010
-~~~~~~~~~~~~~~      
+~~~~~~~~~~~~~~
+**Professional Volunteer**
+
 Charles Darwin Foundation, Galapagos Islands, Ecuador
-Professional Volunteer
 
 * Web development, specifically templates for a full redesign of institutional web site, development of scientific applications and database management.
 * Various duties with BIOMAR Marine Investigation Dept. involving Scientific diving, marine life field guide development production, species identification and outreach.
 
 2/2005-6/2007
-~~~~~~~~~~~~~~ 
+~~~~~~~~~~~~~~
+**Scientific Observer**
+
 (Various Contracts)        Falkland Islands Fisheries Dept., Falkland Islands
-Scientific Observer
 
 * Responsible for collecting primary scientific data aboard commercial fishing vessels.
 * Responsible for monitoring license compliance aboard vessels within Falkland Islands’ waters.
 * Expected to carry out various scientific work on marine specimens in the wet lab on land. Completed diet study of Eleginops maclovinus. (paper published).
 
 1/2004–3/2004
-~~~~~~~~~~~~~~ 	
+~~~~~~~~~~~~~~
+**English Language Teacher**
+
 Eccinoquial Escuela de Lingua. Cuenca, Ecuador, S.A.
-English Language Teacher
 
 * Responsible for planning and delivering English language courses at a range of levels.
 * Produced an entire educational course entitled “English for Computers”. 
 
 8/2002–1/2004
-~~~~~~~~~~~~~~  	
+~~~~~~~~~~~~~~
+**Scientific Observer**
+
 Falkland Islands Fisheries Dept. Falkland Islands
-Scientific Observer
 
 * See Above
 
