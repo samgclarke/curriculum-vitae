@@ -1,10 +1,10 @@
-Mr. Samuel George Clarke
-========================
-
 .. image:: images/portrait.jpg
     :height: 1024px
     :width: 683px
     :scale: 30 %
+
+Mr. Samuel George Clarke
+========================
 
 Contact Details
 ---------------
