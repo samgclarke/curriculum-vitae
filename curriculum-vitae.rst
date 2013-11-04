@@ -75,7 +75,7 @@ Eccinoquial Escuela de Lingua. Cuenca, Ecuador, S.A.
 8/2002–1/2004
 ~~~~~~~~~~~~~~
 **Scientific Observer**
-git ad
+
 Falkland Islands Fisheries Dept. Falkland Islands
 
 * See Above
@@ -85,19 +85,19 @@ Education
 
 2000–2001
 ~~~~~~~~~	
-University of Surrey. Guilford, England
+**University of Surrey.** Guilford, England
 
 * Post Graduate Diploma Toxicology
 
 1996-1999
 ~~~~~~~~~   
-University of Warwick. Coventry, Warwickshire, England
+**University of Warwick.** Coventry, Warwickshire, England
 
 * BSc (Hons) 2:1 Microbiology
 
 1994-1996 
 ~~~~~~~~~        
-Bungay High School. Bungay, Suffolk, England
+**Bungay High School.** Bungay, Suffolk, England
 
 * S’Level: Biology (Merit)
 * A’level : Biology (B), History (B), Chemistry (C), Art ©
@@ -105,7 +105,7 @@ Bungay High School. Bungay, Suffolk, England
 
 1992-1994
 ~~~~~~~~~          
-Newport Free Grammar School, Newport, Essex
+**Newport Free Grammar School.** Newport, Essex
 
 * GCSE: Maths (B), English Language (A), English Literature (A), Biology (A),Chemistry (B), Physics (A), Geology (A*), Art (A*), French (B), History (B).
 
