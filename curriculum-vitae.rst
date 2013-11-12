@@ -1,19 +1,19 @@
-.. image:: images/portrait.jpg
-    :height: 1024px
-    :width: 683px
-    :scale: 30 %
+.. image:: images/me.jpg
+    :height: 200px
+    :width: 200px
+    :scale: 90 %
 
 Mr. Samuel George Clarke
 ========================
 
-Contact Details
----------------
+Personal Details
+----------------
 
 * **Date of Birth:** 15 February 1978
 * **Nationality:** British 
 * **Telephone:** 604 720 9056
 	
-* **Email:** cronneloctopus@gmail.com
+* **Email:** sam.clarke.g@gmail.com
 
 
 Employment Experience
@@ -22,7 +22,7 @@ Employment Experience
 
 9/2013-present
 ~~~~~~~~~~~~~~
-**Technical Director, Django Developer**. 
+**Technical Director, Django Developer** 
 
 Rival Schools, Vancouver, B.C., Canada
 
@@ -112,7 +112,7 @@ Education
 Web Resources
 -------------
 
-* **Github:** https://github.com/cronneloctopus
+* **Github:** https://github.com/samgclarke
 * **Blog:**      http://djangosteps.wordpress.com/
 
 Conferences
