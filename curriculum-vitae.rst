@@ -10,7 +10,8 @@ Personal Details
 ----------------
 
 * **Date of Birth:** 15 February 1978
-* **Nationality:** British 
+* **Nationality:** British
+* **Current Residency:** Vancouver, Canada 
 * **Telephone:** 604 720 9056
 	
 * **Email:** sam.clarke.g@gmail.com
@@ -135,13 +136,13 @@ Django/ Python
 
 PIP, virtualenv, virtualenvwrapper, Fabric, South, numpy, Matplotlib, Sphinx documentation (ReStructuredText), Django-debug-toolbar, Ipython shell, Bpython shell,  GeoDjango.
 
-Web Languages/ Tools
-~~~~~~~~~~~~~~~~~~~~
+Other Languages/ Tools
+~~~~~~~~~~~~~~~~~~~~~~
 
-Experienced UNIX user (Linux), PHP, HTML/XHTML, Javascript, jQuery, AJAX, highcharts.js, backbone.js, CSS3, Google Maps API V3, Apache configuration, MySQL, Postgres, MongoDB, PostGIS, GDAL, SSH, GIT version control, OSM.
+Linux, Bash, PHP, HTML/XHTML, Javascript, jQuery, Angular, AJAX, Highcharts.js, Backbone.js, CSS3, Google Maps API V3, Apache configuration, MySQL, Postgres, MongoDB, PostGIS, GDAL, SSH, GIT version control, OSM.
 
 Other 
-GIS (Quantum GIS), Photoshop, GIMP, Prezi.
+GIS (Quantum GIS), Photoshop, GIMP.
 
 
 Organizations
