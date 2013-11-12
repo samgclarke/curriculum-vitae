@@ -61,7 +61,7 @@ Charles Darwin Foundation, Galapagos Islands, Ecuador
 
 * Responsible for collecting primary scientific data aboard commercial fishing vessels.
 * Responsible for monitoring license compliance aboard vessels within Falkland Islands’ waters.
-* Expected to carry out various scientific work on marine specimens in the wet lab on land. Completed diet study of Eleginops maclovinus. (paper published).
+* Expected to carry out various scientific work on marine specimens in the wet lab on land. Completed diet study of *Eleginops maclovinus*. (paper published).
 
 1/2004–3/2004
 ~~~~~~~~~~~~~~
