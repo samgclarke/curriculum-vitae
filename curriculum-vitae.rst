@@ -141,7 +141,9 @@ Other Languages/ Tools
 
 Linux, Bash, PHP, HTML/XHTML, Javascript, jQuery, Angular, AJAX, Highcharts.js, Backbone.js, CSS3, Google Maps API V3, Apache configuration, MySQL, Postgres, MongoDB, PostGIS, GDAL, SSH, GIT version control, OSM.
 
-Other 
+Other
+~~~~~
+
 GIS (Quantum GIS), Photoshop, GIMP.
 
 
