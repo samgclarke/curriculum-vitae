@@ -150,7 +150,7 @@ GIS (Quantum GIS), Photoshop, GIMP.
 Organizations
 --------------
 
-Pycon 2014 Talk Reviewers Team, DjangoVan, Vancouver Python Users Group, VanJS
+Pycon 2014 Talk Reviewers Team, DjangoVan, Vancouver Python Users Group, VanJS, AngularJS Vancouver
 
 
 Other Skills and interests
