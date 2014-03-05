@@ -23,7 +23,7 @@ Employment Experience
 
 9/2013-present
 ~~~~~~~~~~~~~~
-**Technical Director, Django Developer** 
+**Web Application Architect, Developer** 
 
 Rival Schools, Vancouver, B.C., Canada
 
@@ -139,7 +139,7 @@ PIP, virtualenv, virtualenvwrapper, Fabric, South, numpy, Matplotlib, Sphinx doc
 Other Languages/ Tools
 ~~~~~~~~~~~~~~~~~~~~~~
 
-Linux, Bash, PHP, HTML/XHTML, Javascript, jQuery, Angular, AJAX, Highcharts.js, Backbone.js, CSS3, Google Maps API V3, Apache configuration, MySQL, Postgres, MongoDB, PostGIS, GDAL, SSH, GIT version control, OSM.
+Linux, Bash, PHP, HTML/XHTML, Javascript, jQuery, AngularJS, AJAX, D3.js, Highcharts.js, Backbone.js, CSS3, Google Maps API V3, Apache configuration, MySQL, Postgres, MongoDB, PostGIS, GDAL, SSH, GIT version control, OSM.
 
 Other
 ~~~~~
@@ -166,6 +166,15 @@ Sports: Snowboarding, skateboarding, basketball, squash, hiking, surfing and SCU
 
 Professional References
 -----------------------
+
+**David Lam**
+
+* Executive Director
+* 46 West 6th Avenue
+* Vancouver
+* British Columbia V5Y 1K1 
+
+
 
 **Dr. Alexander Arkhipkin**
 
