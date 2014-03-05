@@ -170,6 +170,7 @@ Professional References
 **David Lam**
 
 * Executive Director
+* Rival Schools
 * 46 West 6th Avenue
 * Vancouver
 * British Columbia V5Y 1K1 
