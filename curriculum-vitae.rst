@@ -119,9 +119,7 @@ Web Resources
 
 Conferences
 -----------
-
-9/2011
-~~~~~~          
+         
 **DjangoCon US 2011** - Portalnd, Oregon, USA
 3/2012
 
