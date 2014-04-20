@@ -125,7 +125,7 @@ Conferences
 **DjangoCon US 2011** - Portalnd, Oregon, USA
 3/2012
 
-**PyCon US 2014** - Santa Clara, California, USA
+**PyCon US 2012** - Santa Clara, California, USA
 
 * Lightning Talk: “Python in the Wild. Developing with Django in the Galapagos Islands.”
 
