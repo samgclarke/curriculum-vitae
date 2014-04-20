@@ -114,19 +114,26 @@ Web Resources
 -------------
 
 * **Github:** https://github.com/samgclarke
-* **Blog:**      http://djangosteps.wordpress.com/
+* **Slide Decks:** https://slides.com/samrivals
+* **Blog:**      http://djangosteps.wordpress.com
 
 Conferences
 -----------
 
 9/2011
 ~~~~~~          
-**DjangoCon US** - Portalnd, Oregon, USA
+**DjangoCon US 2011** - Portalnd, Oregon, USA
 3/2012
 
-**PyCon** - Santa Clara, California, USA
+**PyCon US 2014** - Santa Clara, California, USA
 
 * Lightning Talk: “Python in the Wild. Developing with Django in the Galapagos Islands.”
+
+**PyCon US 2014** - Montreal, Quebec, Canada
+
+* Member of the Pycon Talk Review Board
+
+* Session chair and session runner
 
 Professional Skills
 -------------------
@@ -134,7 +141,7 @@ Professional Skills
 Django/ Python
 ~~~~~~~~~~~~~~
 
-PIP, virtualenv, virtualenvwrapper, Fabric, South, numpy, Matplotlib, Sphinx documentation (ReStructuredText), Django-debug-toolbar, Ipython shell, Bpython shell,  GeoDjango.
+PIP, virtualenv, virtualenvwrapper, Fabric, South, numpy, Matplotlib, Sphinx documentation (ReStructuredText), Django-debug-toolbar, Ipython, Bpython, Pandas, GeoDjango.
 
 Other Languages/ Tools
 ~~~~~~~~~~~~~~~~~~~~~~
