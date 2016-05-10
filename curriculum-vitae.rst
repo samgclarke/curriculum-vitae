@@ -121,7 +121,6 @@ Conferences
 -----------
          
 **DjangoCon US 2011** - Portalnd, Oregon, USA
-3/2012
 
 **PyCon US 2012** - Santa Clara, California, USA
 
