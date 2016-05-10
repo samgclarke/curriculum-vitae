@@ -23,7 +23,7 @@ Employment Experience
 
 9/2013-present
 ~~~~~~~~~~~~~~
-**Web Application Architect, Developer** 
+**Technical Director, Lead Developer** 
 
 Rival Schools, Vancouver, B.C., Canada
 
@@ -120,7 +120,7 @@ Web Resources
 Conferences
 -----------
          
-**DjangoCon US 2011** - Portalnd, Oregon, USA
+**DjangoCon US 2011** - Portland, Oregon, USA
 
 **PyCon US 2012** - Santa Clara, California, USA
 
@@ -135,15 +135,30 @@ Conferences
 Professional Skills
 -------------------
 
-Django/ Python
+Specialist in full stack web application architechture, from server provisioning to REST APIs to responsive CSS optimization.
+
+Python
 ~~~~~~~~~~~~~~
 
-PIP, virtualenv, virtualenvwrapper, Fabric, South, numpy, Matplotlib, Sphinx documentation (ReStructuredText), Django-debug-toolbar, Ipython, Bpython, Pandas, GeoDjango.
+Django, Flask, PIP, virtualenv, virtualenvwrapper, Fabric, South, numpy, Matplotlib, Sphinx documentation (ReStructuredText), Django-debug-toolbar, Ipython, Bpython, Pandas, GeoDjango.
 
-Other Languages/ Tools
-~~~~~~~~~~~~~~~~~~~~~~
 
-Linux, Bash, PHP, HTML/XHTML, Javascript, jQuery, AngularJS, AJAX, D3.js, Highcharts.js, Backbone.js, CSS3, Google Maps API V3, Apache configuration, MySQL, Postgres, MongoDB, PostGIS, GDAL, SSH, GIT version control, OSM.
+Javascript
+~~~~~~~~~~
+
+AngularJS, JQuery, Javascript, jQuery, Angular Material, Protractor, NPM, Bower, Grunt, Gulp, D3.js, Highcharts.js.
+
+
+Mobile Application Development
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Ionic hybrid framework, cordova, CSS media-queries, responsive design.
+
+
+Experience with other languages/ tools
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Linux, Bash, PHP, HTML/XHTML, Google Maps API V3, Apache configuration, MySQL, Postgres, MongoDB, PostGIS, GDAL, SSH, GIT version control, OSM.
 
 Other
 ~~~~~
@@ -161,7 +176,7 @@ Other Skills and interests
 --------------------------
 
 **Languages:** Spanish (fluent), Italian, French and German (basic)
-Sports: Snowboarding, skateboarding, basketball, squash, hiking, surfing and SCUBA diving (PADI Advanced Open Water).
+Sports: Snowboarding, skateboarding, paddleboarding, squash, hiking, surfing and SCUBA diving (PADI Advanced Open Water).
 
 **Traveling:** Areas visited include Eastern and Western Europe, Northern and Southern Africa, North America, Central and South America.
 
