@@ -158,7 +158,7 @@ Ionic hybrid framework, cordova, CSS media-queries, responsive design.
 Experience with other languages/ tools
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Linux, Bash, PHP, HTML/XHTML, Google Maps API V3, Apache configuration, MySQL, Postgres, MongoDB, PostGIS, GDAL, SSH, GIT version control, OSM.
+Linux, Bash, PHP, HTML/XHTML, Google Maps API V3, Apache, NGINX, MySQL, Postgres, MongoDB, PostGIS, GDAL, SSH, GIT version control, OSM.
 
 Other
 ~~~~~
