@@ -152,7 +152,7 @@ AngularJS, JQuery, Javascript, jQuery, Angular Material, Protractor, NPM, Bower,
 Mobile Application Development
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Ionic hybrid framework, cordova, CSS media-queries, responsive design.
+Ionic hybrid framework, Cordova, CSS media-queries, responsive design.
 
 
 Experience with other languages/ tools
