@@ -27,8 +27,8 @@ Employment Experience
 
 Rival Schools, Vancouver, B.C., Canada
 
-* Co-ordination and engineering of web application projects.
-
+* Co-ordination and engineering of web applications. Responsibilities include design and implementation of both backend and front-end technologies, as well as devops and data integrity. Additionally my role involves deveoping standardised systems for bootsrapping and deploying applications on a distributed cloud architecture. 
+ 
 10/2012-9/2012
 ~~~~~~~~~~~~~~
 **Django Developer**
