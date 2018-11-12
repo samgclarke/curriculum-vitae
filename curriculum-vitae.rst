@@ -24,7 +24,7 @@ Employment Experience
 ~~~~~~~~~~~~~~
 **CTO, Senior Developer** 
 
-Zig, Vancouver, B.C., Canada
+Zig, Vancouver, B.C., Canada. https://zigtheapp.com/
 
 *  Responsible for evaluating and implementing new systems and infrastructure. Ensuring technologies are used efficiently, profitably and securely. Recruitment and management of the development team.
 
@@ -33,7 +33,7 @@ Zig, Vancouver, B.C., Canada
 ~~~~~~~~~~~~~~
 **Technical Director, Lead Developer** 
 
-Rival Schools, Vancouver, B.C., Canada
+Rival Schools, Vancouver, B.C., Canada. http://rivalschools.tv/
 
 * Co-ordination and engineering of web applications. Responsibilities include design and implementation of both backend and front-end technologies, as well as devops and data integrity. Additionally my role involves deveoping standardised systems for bootstrapping and deploying applications on a distributed cloud architecture. 
  
@@ -41,7 +41,7 @@ Rival Schools, Vancouver, B.C., Canada
 ~~~~~~~~~~~~~~
 **Django Developer**
 
-Rival Schools, Vancouver, B.C., Canada
+Rival Schools, Vancouver, B.C., Canada. http://rivalschools.tv/
 
 * Creation of a web-based configurator tool for use in the Solar Mounting industry.
 
@@ -49,7 +49,7 @@ Rival Schools, Vancouver, B.C., Canada
 ~~~~~~~~~~~~~~     
 **Web Development Consultant**
 
-Charles Darwin Foundation, Galapagos Islands, Ecuador
+Charles Darwin Foundation, Galapagos Islands, Ecuador. https://www.darwinfoundation.org/en/datazone
 
 * Development of scientific web applications, database standards and web interfaces.
 
