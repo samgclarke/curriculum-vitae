@@ -14,22 +14,30 @@ Personal Details
 * **Current Residency:** Vancouver, Canada 
 * **Telephone:** 604 720 9056
 	
-* **Email:** sam.clarke.g@gmail.com
+* **Email:** samclarke.g@gmail.com
 
 
 Employment Experience
 ---------------------
 
+11/2017-present
+~~~~~~~~~~~~~~
+**CTO, Senior Developer** 
 
-9/2013-present
+Zig, Vancouver, B.C., Canada
+
+*  Responsible for evaluating and implementing new systems and infrastructure. Ensuring technologies are used efficiently, profitably and securely. Recruitment and management of the development team.
+
+
+9/2013-10/2017
 ~~~~~~~~~~~~~~
 **Technical Director, Lead Developer** 
 
 Rival Schools, Vancouver, B.C., Canada
 
-* Co-ordination and engineering of web applications. Responsibilities include design and implementation of both backend and front-end technologies, as well as devops and data integrity. Additionally my role involves deveoping standardised systems for bootsrapping and deploying applications on a distributed cloud architecture. 
+* Co-ordination and engineering of web applications. Responsibilities include design and implementation of both backend and front-end technologies, as well as devops and data integrity. Additionally my role involves deveoping standardised systems for bootstrapping and deploying applications on a distributed cloud architecture. 
  
-10/2012-9/2012
+10/2012-9/2013
 ~~~~~~~~~~~~~~
 **Django Developer**
 
