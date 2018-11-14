@@ -127,6 +127,9 @@ Web Resources
 
 Conferences
 -----------
+**PyCarribean 2016** - Puerto Rico
+
+* Talk: “Celery Demystified.” https://youtu.be/7ZkZr7apcJs
          
 **DjangoCon US 2011** - Portland, Oregon, USA
 
