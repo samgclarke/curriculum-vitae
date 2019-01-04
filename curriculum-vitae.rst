@@ -203,6 +203,16 @@ Sports: Snowboarding, skateboarding, paddleboarding, squash, hiking, surfing and
 
 Professional References
 -----------------------
+**Neil McBean**
+
+* Owner/ CEO
+* Kracker Cloud Technologies
+* 46 West 6th Avenue
+* Vancouver
+* British Columbia V5Y 1K1
+* neil@kracker.io
+
+
 
 **David Lam**
 
@@ -212,18 +222,6 @@ Professional References
 * Vancouver
 * British Columbia V5Y 1K1
 * david@rivalschools.tv
-
-
-
-**Dr. Alexander Arkhipkin**
-
-* Senior Scientist
-* Fisheries Dept.
-* FIPASS
-* Falkland Islands
-* FIQQ 1ZZ
-* Tel: (500) 27260
-* arkhipkin@fisheries.gov.fk
 
 
 
