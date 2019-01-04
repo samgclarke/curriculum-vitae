@@ -34,7 +34,7 @@ Zig, Vancouver, B.C., Canada. https://zigtheapp.com/
 
 Scriptspeaker, Vancouver, B.C., Canada. https://app.scriptspeaker.com/
 
-* Responsible for design and execution of the software aspects of application. Fullstack development. 
+* Responsible for design and execution of the software aspects of the application. Fullstack development. 
 
 9/2013-10/2017
 ~~~~~~~~~~~~~~
