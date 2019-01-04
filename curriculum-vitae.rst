@@ -116,7 +116,7 @@ Education
 **Bungay High School.** Bungay, Suffolk, England
 
 * S’Level: Biology (Merit)
-* A’level : Biology (B), History (B), Chemistry (C), Art ©
+* A’level : Biology (B), History (B), Chemistry (C), Art (C)
 
 
 1992-1994
