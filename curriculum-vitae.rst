@@ -28,6 +28,13 @@ Zig, Vancouver, B.C., Canada. https://zigtheapp.com/
 
 *  Responsible for evaluating and implementing new systems and infrastructure. Ensuring technologies are used efficiently, profitably and securely. Recruitment and management of the development team.
 
+16/2015-present
+~~~~~~~~~~~~~~~
+**Lead Developer**
+
+Scriptspeaker, Vancouver, B.C., Canada. https://app.scriptspeaker.com/
+
+* Responsible for design and execution of the software aspects of application. Fullstack development. 
 
 9/2013-10/2017
 ~~~~~~~~~~~~~~
