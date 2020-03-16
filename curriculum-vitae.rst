@@ -134,6 +134,10 @@ Web Resources
 
 Conferences
 -----------
+**PyTennessee 2020** - Nashville, Tennessee
+
+* Talk:  “Monitoring and Testing web applications in the wild.” https://github.com/samgclarke/pytennesee_2020
+
 **PyCarribean 2016** - Puerto Rico
 
 * Talk: “Celery Demystified.” https://youtu.be/7ZkZr7apcJs
