@@ -134,6 +134,10 @@ Web Resources
 
 Conferences
 -----------
+**Python Web Conference 2020** - Remote
+
+* Talk: “Monitoring and Testing web applications in the wild.” https://2020.pythonwebconf.com/presentations/testing-and-monitoring-web-applications-in-the-wild
+
 **PyTennessee 2020** - Nashville, Tennessee
 
 * Talk:  “Monitoring and Testing web applications in the wild.” https://github.com/samgclarke/pytennesee_2020
