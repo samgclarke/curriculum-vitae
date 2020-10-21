@@ -132,11 +132,12 @@ Web Resources
 * **Slide Decks:** https://slides.com/samrivals
 * **Blog:**      http://djangosteps.wordpress.com
 
-Conferences
------------
+Conferences and Speaking
+------------------------
 **Python Web Conference 2020** - Remote
 
 * Talk: “Monitoring and Testing web applications in the wild.” https://2020.pythonwebconf.com/presentations/testing-and-monitoring-web-applications-in-the-wild
+* https://www.youtube.com/watch?v=WRfyod2cMSs
 
 **PyTennessee 2020** - Nashville, Tennessee
 
