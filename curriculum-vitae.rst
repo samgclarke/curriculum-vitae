@@ -20,7 +20,15 @@ Personal Details
 Employment Experience
 ---------------------
 
-11/2017-present
+1/2019-present
+~~~~~~~~~~~~~~
+**Senior Developer** 
+
+AgFunder. https://agfunder.com/
+
+*  Responsible for maintaining and creating applications, co-ordinating devs and managing infrastructure. Python, Postgres Elastic Search and others.  
+
+11/2017-11/2018
 ~~~~~~~~~~~~~~
 **CTO, Senior Developer** 
 
