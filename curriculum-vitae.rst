@@ -220,6 +220,13 @@ Sports: Snowboarding, skateboarding, paddleboarding, squash, hiking, surfing and
 
 Professional References
 -----------------------
+**Rob Leclerc**
+
+* Founding Partner
+* AgFunder
+* rob@agfunder.com
+
+
 **Neil McBean**
 
 * Owner/ CEO
