@@ -26,7 +26,7 @@ Employment Experience
 
 AgFunder. https://agfunder.com/
 
-*  Responsible for maintaining and creating applications, co-ordinating devs and managing infrastructure. Python, Postgres Elastic Search and others.  
+*  Responsible for maintaining and creating applications, co-ordinating devs and managing infrastructure. Core roles: Data Engineering, Security, Cloud Infrastructure, AI in production. Python, Postgres, ElasticSearch, Docker, OpenAI.  
 
 11/2017-11/2018
 ~~~~~~~~~~~~~~
